@@ -203,8 +203,3 @@ Possible enhancements include:
 * Docker containerization
 * Unit and integration testing
 
----
-
-## Author
-
-Developed by **[Your Name]** as part of a backend coding challenge.
